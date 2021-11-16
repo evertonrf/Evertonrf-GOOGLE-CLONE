@@ -67,3 +67,15 @@ button {
     top: 0;
     left: 0;
 }
+
+/* Main */
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 56px 8px 0px;
+}
+.content__logo {
+    height: 56px;
+    
+}
